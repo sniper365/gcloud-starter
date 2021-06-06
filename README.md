@@ -11,8 +11,6 @@ Demo: [here](https://arthursonzogni.github.io/gcloud-cpp-starter/)
 
 # How to build?
 
-[![asciicast](https://asciinema.org/a/guUjW9jwA27KDYJTCzjBxLXY2.svg)](https://asciinema.org/a/guUjW9jwA27KDYJTCzjBxLXY2)
-
 * Build everything using CMake:
 ~~~bash
 mkdir build
